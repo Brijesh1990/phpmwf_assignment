@@ -1,0 +1,48 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    background-color: lightgray;
+}
+.main-content
+{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    /* display: flex;
+    flex-direction: row; */
+}
+.prod1,.prod2,.prod3,.prod4 
+{
+    width: 45%;
+    height: auto;
+    background-color: white;
+    margin: 2px;
+    padding: 10px;
+    float: left;
+    margin-left: 2%;
+
+}
+
+#prod-img
+{
+    width: 30%;
+    height: auto;
+    float: left;
+}
+#prod-img img
+{
+    width: 100%;
+    height: auto;
+    float: left;
+    padding: 15px;
+}
+#prod-txt 
+{
+    width: 60%;
+    height: auto;
+    float: right;
+    padding: 15px;
+    
+}

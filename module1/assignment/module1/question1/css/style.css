@@ -1,0 +1,58 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    background-color: greenyellow;
+}
+
+.reg-form 
+{
+    width: 50%;
+    height: auto;
+    margin: auto;
+    padding: 15px;
+    background-color: rgba(0,255,0,0.2);
+    margin-top: 5%;
+}
+table 
+{
+    margin: 10px !important;
+    padding: 15px;
+}
+.row1
+{
+    width: 90%;
+    height: auto;
+    margin: auto;
+    padding: 5px;
+    margin-left: 5%;
+    background-color: yellowgreen;
+    border: solid 1px white !important;
+    border-radius: 10px;
+    margin-top: 2%;
+}
+input[type="text"],textarea
+{
+    width: 80%;
+    height: auto;
+    margin: 15px;
+    padding: 10px;
+    margin-top: 2%;
+
+}
+
+input[type="submit"]
+{
+    width: 30%;
+    height: auto;
+    margin: 25px;
+    padding: 10px;
+    margin-left: 35%;
+    background-color: sienna !important;
+    border: none;
+    color: white;
+    margin-top: 2%;
+    border-radius: 15px;
+}
+
